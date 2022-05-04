@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**AungKyawPhyo1142/AungKyawPhyo1142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on a 2D game in java.
+- 🌱 I’m currently learning web development.
+- 🤔 I’m looking for help with javascript and a learning partner.
+- 📫 How to reach me: aungkyawphyo142.edu@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I like to eat chocolate, I mean like, alot.
+- 💻 I'm good at fixing things including computers and mobile phones.
+- 📖 I love reading books in my free time, and my favourite book is called "The Two Solitudes"
+- 🎵 When I feel overwhelmed, I listen to music and it makes me relieve.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api?username=AungKyawPhyo1142&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
