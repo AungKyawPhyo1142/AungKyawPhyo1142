@@ -20,8 +20,9 @@ I've 3 years of experience in C++ & JAVA SE and as a programming instructor for 
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aungkyawphyo1142&&theme=dark&show_icons=true&locale=en&layout=compact" alt="aungkyawphyo1142" /></p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AungKyawPhyo1142&repo=Pizza-Order-System-Laravel)](https://github.com/AungKyawPhyo1142/Pizza-Order-System)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AungKyawPhyo1142&repo=Pizza-Order-System)]
+(https://github.com/AungKyawPhyo1142/Pizza-Order-System)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AungKyawPhyo1142&repo=A-Star-Path-Finding-Visualization)](https://github.com/AungKyawPhyo1142/A-Path-Finding-Visualization)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AungKyawPhyo1142&repo=A-Path-Finding-Visualization)](https://github.com/AungKyawPhyo1142/A-Path-Finding-Visualization)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AungKyawPhyo1142&repo=Daisy-Inventory-Management-System)](https://github.com/AungKyawPhyo1142/Daisy-Inventory-Management-System)
