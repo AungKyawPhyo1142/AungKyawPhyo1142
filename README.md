@@ -16,6 +16,6 @@ I've 3 years of experience in C++ & JAVA SE and as a programming instructor for 
 
 - ⚡ Fun fact **I think I'm funny & friendly.**
 
-[![AungKyaw Phyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=AungKyawPhyo1142)](https://github.com/AungKyawPhyo1142/github-readme-stats)
+[![AungKyaw Phyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=AungKyawPhyo1142&theme=dark&show_icons=true)](https://github.com/AungKyawPhyo1142/github-readme-stats)
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aungkyawphyo1142&show_icons=true&locale=en&layout=compact" alt="aungkyawphyo1142" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aungkyawphyo1142&&theme=dark&show_icons=true&locale=en&layout=compact" alt="aungkyawphyo1142" /></p>
