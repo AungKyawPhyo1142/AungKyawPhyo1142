@@ -1,8 +1,5 @@
-pronouns: "He" | "Him",
-code: [Javascript, HTML, CSS, PHP, Laravel, Vue, Java, C, C++],
+### Hey there :smiley:
 
-@@ -25,6 +25,6 @@ const thai = {
-}
-```
+I'm AungKyaw Phyo and people can also call me as Sebastian Kein. I do web development and currently learning Vue. I enjoy learning new technologies and programming languages like Java. I am 21 years old student and currently living in Mandalay, Myanmar.
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+[![AungKyaw Phyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=AungKyawPhyo1142)](https://github.com/AungKyawPhyo1142/github-readme-stats)
