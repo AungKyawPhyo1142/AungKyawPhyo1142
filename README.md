@@ -6,6 +6,8 @@ I've 3 years of experience in C++ & JAVA SE and as a programming instructor for 
 
 - 🔭 I’m currently working on **Pizza Order System**
 
+- :sparkles: I teach **C++, Java SE and some other languages**
+
 - 🌱 I’m currently learning **PHP, Laravel & Vue**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AungKyawPhyo1142](https://github.com/AungKyawPhyo1142)
