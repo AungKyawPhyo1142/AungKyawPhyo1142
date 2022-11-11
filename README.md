@@ -2,7 +2,7 @@
 I do web development and currently learning Vue. I enjoy learning new technologies and programming languages like Java. I am 21 years old, and currently living in Mandalay, Myanmar.
 
 ## Skills & Experience
-I've 3 years of experience in C++ & JAVA SE and as a programming instructor for 4 years. Currently I'm learning Vue because I've learned php & laravel. You can also check out my Pizza Order System written in Laravel.
+I've 3 years of experience in C++ & JAVA SE and as a programming instructor. Currently I'm learning Vue because I've learned php & laravel. You can also check out my Pizza Order System written in Laravel.
 
 - 🔭 I’m currently working on **Media Projec & Movie Website**
 
