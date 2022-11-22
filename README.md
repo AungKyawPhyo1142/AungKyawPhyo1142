@@ -4,9 +4,9 @@ I do web development and currently learning Vue. I enjoy learning new technologi
 ## Skills & Experience
 I've 3 years of experience in C++ & JAVA SE and as a programming instructor. Currently I'm learning Vue because I've learned php & laravel. You can also check out my Pizza Order System written in Laravel.
 
-- 🔭 I’m currently working on **Media Project & Movie Website**
+- 🔭 I’m currently working on **Learning Platform**
 
-- :book: I'm currently learning JAVA(EE) & Laravel + Vue.
+- :book: I'm currently learning to take **ITPEC Exam**
 
 - :sparkles: I teach **C++, Java SE and some other languages**
 
