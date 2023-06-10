@@ -24,6 +24,6 @@ I've 3 years of experience in C++ & JAVA SE and as a programming instructor. Cur
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AungKyawPhyo1142&theme=dark&show_icons=true&repo=Pizza-Order-System)](https://github.com/AungKyawPhyo1142/Pizza-Order-System)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AungKyawPhyo1142&theme=dark&show_icons=true&repo=A-Path-Finding-Visualization)](https://github.com/AungKyawPhyo1142/A-Path-Finding-Visualization)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AungKyawPhyo1142&theme=dark&show_icons=true&repo=Blog-Project)](https://github.com/AungKyawPhyo1142/Blog-Project)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AungKyawPhyo1142&theme=dark&show_icons=true&repo=Daisy-Inventory-Management-System)](https://github.com/AungKyawPhyo1142/Daisy-Inventory-Management-System)
