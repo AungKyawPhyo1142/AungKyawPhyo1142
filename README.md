@@ -1,11 +1,83 @@
-# 💫 About Me:
-Hey there 👋, I'm AungKyaw Phyo<br>I do web development and currently learning GO. I enjoy learning new technologies and programming languages. <br>I've 3 years of experience in C++ & JAVA SE and as a programming instructor. You can also check out my Pizza Order System written in Laravel. Over 2 years of teaching, I had also developed a curriculum for beginners to make learning programming a lot more easier.<br>I am currently working as a Fullstack Software Engineer at WeStride, Thailand.<br><br>- 🔭 I’m currently working on Learning Platform<br><br>- ✨ I teach C++, Java SE and some other languages<br><br>- 🌱 I’m currently learning Go<br><br>- 📫 How to reach me aungkyawphyo142.edu@gmail.com<br><br>- ⚡ Goal: My goal is to make education easier and cheaper for those who has a dream of becoming a software enigneer.<br>
+# Aung Kyaw Phyo (Sebastian Kein)
 
+**Full-Stack Software Engineer • Frontend Specialist (React) with Strong Backend & Leadership Experience**  
+Da Nang, Vietnam | Remote (UTC+7)  
+📧 aungkyawphyo142.edu@gmail.com  
+🌐 [Portfolio](https://aungkyawphyo-portfolio.vercel.app/)  
+💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/aungkyaw-phyo-183739368/)  
+🐙 GitHub: [@AungKyawPhyo1142](https://github.com/AungKyawPhyo1142)
 
-<!--
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AungKyawPhyo1142&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
--->
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+> Experienced full-stack engineer with strong backend expertise in **TypeScript/Node.js** and leadership in building impactful applications. Led a team to develop Sentria, a community-driven disaster response platform, while delivering production frontend features in React for WeStride's edtech products.
+
+### Professional Experience
+
+**Full-Stack Software Engineer**  
+WeStride Institute of Technology – Remote (Thailand)  
+*2022 – Present* (3+ years)
+- Developed key frontend features using **React, Next.js, TypeScript, Tailwind CSS, and GSAP** for major products including:
+  - WeStride Dashboard
+  - WeStride LMS (Learning Management System)
+  - Hue of One (color customization platform)
+- Contributed to full-stack development, including backend integrations with **Node.js, Express, Prisma, and PostgreSQL**
+- Collaborated remotely in Agile teams to build scalable, user-focused edtech solutions serving Southeast Asia
+
+**Programming Instructor & Curriculum Developer**  
+*Prior Roles* (3 years)
+- Taught **C++** and **Java SE** to beginners
+- Created hands-on curricula, including a full **Laravel (PHP)** Pizza Order System project
+
+### Leadership & Personal Projects
+
+**Founder & Team Lead – Sentria**  
+*Personal Project* (2025 – Present)
+- Led a team of 6 developers to build **Sentria**, a community-driven disaster response platform inspired by real-world needs during natural crises
+- Designed and implemented the core backend architecture using **TypeScript, Node.js, Express, Prisma, and PostgreSQL**
+- Oversaw full-stack development: scalable APIs for real-time reporting, map integration, fact-checking microservices, and resilient data handling
+- Prototyped performance enhancements in **Go (Golang)**, including a dedicated fact-checker microservice integrating external APIs
+- Focused on reliable information flow in low-connectivity scenarios, with features for incident reporting, resource sharing, and safe routing
+
+### Tech Stack & Core Expertise
+**Primary Specialization (Production & Leadership):**
+- **Backend**: TypeScript, Node.js, Express, Prisma, PostgreSQL, REST APIs
+- **Frontend**: React, Next.js, Tailwind CSS, GSAP animations
+
+**Emerging & Tooling:**
+- Go (Golang) – microservices, CLI tools, concurrency
+- Additional: Laravel (PHP), C++, Java SE, Git, Docker basics, Agile
+
+I emphasize scalable architecture, clean code, team collaboration, and delivering meaningful impact through technology.
+
+### Featured Projects
+
+#### Sentria (Leadership & Full-Stack Architecture Project)
+- Community-driven disaster response platform enabling real-time incident reporting, map integration, resource sharing, and automated fact-checking during natural crises
+- Founded and led a team of 6 developers; served as primary system & software architect
+- Designed the overall system architecture (backend microservices, database schema, API contracts, real-time features)
+- Built and owned the entire frontend foundation: created all UI/UX designs, set up the React/Next.js + TypeScript project, and integrated key packages (Tailwind CSS, GSAP, state management, etc.)
+- Architected scalable backend in **TypeScript/Node.js** (Express + Prisma + WebSockets); prototyped fact-checker microservice in **Go**
+- GitHub: [fe-sentria](https://github.com/AungKyawPhyo1142/fe-sentria) (Frontend) | [be-sentria](https://github.com/AungKyawPhyo1142/be-sentria) (Backend) | [sentria-go (Fact-Checker)](https://github.com/AungKyawPhyo1142/sentria-go)
+
+#### Sonique (Full-Stack)
+- Music/learning platform features
+- Backend APIs and integrations in **TypeScript**
+- GitHub: [be-sonique](https://github.com/AungKyawPhyo1142/be-sonique)
+
+#### Create Express CLI
+- Developer productivity tool for rapid Express.js bootstrapping
+- Built in **Go** – showcases tooling expertise
+- GitHub: [create-express-cli](https://github.com/AungKyawPhyo1142/create-express-cli)
+
+#### A* Path Finding Visualization
+- Interactive algorithm demo with GUI
+- Implemented in **Java**
+- GitHub: [A-Path-Finding-Visualization](https://github.com/AungKyawPhyo1142/A-Path-Finding-Visualization)
+
+### About & Goals
+Passionate about edtech and crisis-response tools that make a real difference. Dedicated to mentoring teams, writing performant backend systems, and crafting intuitive React experiences.
+
+Open to **remote** or **relocation-sponsored** roles in full-stack, backend, or tech lead positions at impactful companies.
+
+### Let's Connect!
+If your team needs a proven full-stack software engineer with strong Node.js/TypeScript backend skills, React, Next.js frontend delivery, and experience shipping production apps, I'd love to discuss how I can contribute.
+
+*Last updated: December 2025*
